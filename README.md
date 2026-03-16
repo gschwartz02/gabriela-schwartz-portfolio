@@ -11,22 +11,23 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! My name is Gabriela Schwartz (she/her), and I am currently a second year graduate student in the Master of Arts Management program. My background is in instrumental music performance, where I specialized in trombone, and I also hold a minor in psychology. My academic and professional interests sit at the intersection of the performing arts, storytelling, and audience engagement. Through my studies and work experiences in arts administration, I’ve developed a strong interest in how data can be used to better understand audiences, improve accessibility, and support decision making in cultural organizations.
+
+In addition to my academic work, I’ve been involved in a variety of roles across the arts, including performance management, teaching and tutoring, and front-of-house operations. These experiences have shaped my perspective on how organizations communicate impact and connect with their communities. I’m particularly interested in how data visualization can help arts organizations tell clearer, more compelling stories about their work and the audiences they serve. Outside of class, I enjoy live music, crocheting, and exploring ways to bring people together through creative experiences.
+
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. Develop stronger data visualization skills
+2. Learn how to use data to tell compelling stories
+3. Apply data skills to a career in arts administration
 
 # Portfolio
+Data visualization #1
+Final Project, part one
+Final Project, part two
+Final Project, part three
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
