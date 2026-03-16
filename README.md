@@ -8,25 +8,21 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is Gabriela Schwartz's public portfolio for Telling Stories with Data at CMU!  I will display my work here. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I am Gabriela Schwartz a Master of Arts Management second year student. I am orginally from Philadelphia and have lived in Pittsburgh for six years. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. How to create visually apealing graphs
+2. How to know what visuals to choose to display your data
+3. How to use color to benefit readibility of visuals
 
 # Portfolio
+Data visualization #1
+Final Project, part one
+Final Project, part two
+Final Project, part three
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
