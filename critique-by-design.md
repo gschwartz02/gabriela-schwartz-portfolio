@@ -92,8 +92,15 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
-_List any references you used here._
+Stiles, Matt. “How Common Is Your Birthday?” The Daily Viz, September 17, 2016.
+https://thedailyviz.com/2016/09/17/how-common-is-your-birthday-dailyviz/.
+
+“Watch Me Viz - #MakeoverMonday 2021 Week 26 - How Popular Is Your Birthday?.” YouTube. Accessed March 25, 2026.
+https://www.youtube.com/watch?v=XW-U4rtWvr8.
+
+Few, Stephen. “Data Visualization Effectiveness Profile.” Visual Business Intelligence Newsletter. Perceptual Edge, January-March 2017.
+
+Berinato, Scott. Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations. Boston: Harvard Business Review Press, 2016.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+Like the first data visualization critique, I asked AI what they would change about the data visualization. The answers were the color scheme and the layout, but it could not access all the details of the original data visualization.
