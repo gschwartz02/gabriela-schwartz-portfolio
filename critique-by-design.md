@@ -68,11 +68,11 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
-| Question | Interview 1 | Interview 2 |
+| Question | Interview 1- undergraduate student | Interview 2 MAM student|
 |----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+|Can you describe to me what this is telling you?          |How common each birthday is.             |How many people are born on each day of the year.             |
+|Is there anything you find surprising or confusing?          |It is hard to tell that it is over 20 years at first look.             |It is hard to decipher between small color differences             |
+|Who is the intended audience?          |The general population.             |Anyone who is interested in birthdays.             |
 
 Synthesis: 
 
