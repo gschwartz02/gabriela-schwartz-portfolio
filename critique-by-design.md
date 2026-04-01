@@ -84,8 +84,9 @@ _Don't identify or share personally identifiable information (PII) about the peo
 |Who is the intended audience?          |The general population.             |Anyone who is interested in birthdays.             |
 
 Synthesis: 
+Both participants understood that the visualization shows how common birthdays are, indicating that the overall concept is intuitive for a general audience. However, they noted that it was hard to tell the data spans 20 years, and the color differences are subtle, making precise comparisons difficult.
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+From this feedback, I learned that the visualization is engaging but lacks clarity and detail. The calendar will not work to show a time span of 20 years, because the numbers do not line up to the same weekdays for every year. For my redesign, I will revert back to the heatmap style format, increase contrast in the color scale, and add a separate by month and by day summary as well. These changes aim to keep the visualization accessible while improving accuracy and usability.
 
 ## Step five: build the solution
 
