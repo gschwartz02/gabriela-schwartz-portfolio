@@ -8,8 +8,15 @@ _For each step below, you should document your progress as you move forward.  In
 _You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
 ## Step one: the visualization
-Origi<img width="792" height="574" alt="Screenshot 2026-04-01 at 11 10 05 AM" src="https://github.com/user-attachments/assets/380456b2-057a-4fbc-a5dd-b8b4e069313f" />
-nal data visualization: 
+Original data visualization: 
+<img width="792" height="574" alt="Screenshot 2026-04-01 at 11 10 05 AM" src="https://github.com/user-attachments/assets/380456b2-057a-4fbc-a5dd-b8b4e069313f" />
+https://thedailyviz.com/2016/09/17/how-common-is-your-birthday-dailyviz/ 
+
+The visualization, created by Matt Stiles for The Daily Viz, is a heatmap that shows how common each birthday is in the United States. It uses data on average daily births from 1994-2014 and represents frequency through color intensity; darker shades indicate more common birthdays. The chart reveals clear seasonal patterns, particularly a concentration of birthdays in September, which corresponds to conception periods around the winter holidays. Conversely, holidays such as Christmas and New Year’s Day tend to have fewer births, suggesting the influence of both natural and planned factors in birth timing.
+
+I selected this data visualization because it presents a familiar and personal topic of birthdays, and also because my birthday was a week ago. Everyone has a birthday, so the visualization immediately draws in the viewer with a sense of personal relevance. At the same time, it reveals broader demographic patterns that most people would not intuitively recognize, such as the clustering of births in certain months and the relative rarity of birthdays on major holidays.
+
+Additionally, this visualization is a strong example of effective design. The heatmap format allows viewers to quickly identify patterns across an entire year, while the use of color gradients makes comparisons intuitive without overwhelming the audience. It also demonstrates how design choices impact interpretation; earlier versions of the chart used rankings rather than actual counts, which could mislead viewers, highlighting the importance of accurate data representation in visualization.
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
