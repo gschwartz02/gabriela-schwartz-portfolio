@@ -31,17 +31,14 @@ Intuitiveness- 8/10
 Aesthetics- 7/10
 Engagement- 7/10
 
-##Overall Observations
 The original data visualization is highly engaging and visually appealing, largely because it taps into a universal curiosity of people are naturally drawn to finding their own birthday and comparing it to others. One of the most effective aspects of the design is the calendar style heatmap, which feels intuitive and familiar, allowing users to quickly navigate the dataset without needing prior explanation. The use of color gradients is particularly successful in highlighting broader seasonal trends, such as the noticeable concentration of birthdays in late summer and early fall.
 
 However, while the visualization excels at communicating general patterns, it is less effective for making precise comparisons between specific dates. Subtle differences in color can be difficult to distinguish, which limits accuracy when interpreting small variations in birth frequency. Additionally, the visualization lacks contextual information that explains why these patterns occur, reducing its depth and overall analytical value. As a result, it functions more as an exploratory or curiosity driven tool rather than a fully informative data analysis.
 
-##Target Audience
 The primary audience for this visualization is the general public, particularly casual users who enjoy interactive and personally relevant content. For this audience, the visualization is highly effective because it prioritizes accessibility, simplicity, and visual appeal over technical complexity. The familiar calendar layout lowers the barrier to entry, and the personal element of searching for one’s own birthday increases engagement and shareability.
 
 However, for a more analytical audience, the visualization may be less effective. It does not provide detailed comparisons, statistical context, or explanatory annotations that would support deeper interpretation. While it succeeds as an engaging visual experience, it falls short as a tool for rigorous data analysis.
 
-##Redesign Focus and Ideas
 Based on this critique, my redesign will focus on improving both clarity and usability. One key improvement will be refining the calendar structure by removing or visually muting non-existent dates (such as February 30th and 31st), which will make the layout more accurate and reduce potential confusion.
 
 In addition, I plan to display the trends by month and day more. For example, viewers can see how popular January birthdays are over the twenty year period, or how popular the 15th day of a month is over the twenty year period. 
