@@ -48,7 +48,7 @@ Section 4: Map showing inequities in access
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+I plan on using my data sources to compare outcomes between students with and without music education. I am hopign to identify trends in access to music programs, especially in the US. I am hoping to support my claims that music has cognitive and social benefits. I also want to translate statistical findings into a visual narrative that is aesthetically pleasing and easy to understand to the general public. 
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
