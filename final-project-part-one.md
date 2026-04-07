@@ -38,7 +38,11 @@ End/Takeaway/Call to Action
 - Encourage investment in arts education
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.
+
+![IMG_2547](https://github.com/user-attachments/assets/0ef08b98-5346-4799-aa0a-661545361aad)
+![IMG_2548](https://github.com/user-attachments/assets/f442c5a4-fc43-489e-86c0-89852a5fc394)
+![IMG_2549](https://github.com/user-attachments/assets/fa9bc758-4421-4852-b9f9-238682091689)
 
 Section 1: Bar chart comparing schools with/without music programs
 Section 2: Side-by-side academic performance chart
