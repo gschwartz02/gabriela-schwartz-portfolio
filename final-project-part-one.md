@@ -6,11 +6,36 @@
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
-Text here...
+This project explores how music education impacts students beyond musical skill, focusing on outcomes such as academic performance, cognitive development, and social-emotional growth. While music programs are often the first to face budget cuts, research consistently suggests that participation in music education contributes to improved learning outcomes, increased engagement in school, and stronger interpersonal skills.
+
+Through data visualization, this project aims to tell a clear and compelling story about why music education matters, particularly for students in K–12 settings. The goal is to translate complex educational and psychological data into an accessible narrative that resonates with educators, policymakers, and the general public. By focusing on measurable outcomes such as test scores, graduation rates, and behavioral indicators, this project will highlight the broader value of arts education in shaping student success.
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-Text here...
+Music education is not just an artistic outlet—it is a critical driver of academic and personal development for students.
+Background Context
+- Introduce decline or inconsistency in music education funding
+- Pose key question: Does music education actually impact student success?
+- Show initial statistic or visual (% of schools with music programs, in map format)
+
+Evidence and Insights
+1. Academic Impact
+- Relationship between music participation and GPA/test scores
+- Visualization: comparison charts (music vs. non-music students)
+2. Cognitive Development
+- Effects on memory, language, and brain development
+- Visualization: simplified infographic or annotated chart
+3. Social & Emotional Benefits
+- Collaboration, discipline, and emotional expression
+- Visualization: survey-based or qualitative data representation
+4. Equity & Access
+- Disparities in access to music education by income or district
+- Visualization: maps or bar charts showing gaps
+
+End/Takeaway/Call to Action
+- Reinforce importance of music education
+- Show what is at stake if programs are cut
+- Encourage investment in arts education
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
