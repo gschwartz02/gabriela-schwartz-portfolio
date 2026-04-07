@@ -40,7 +40,10 @@ End/Takeaway/Call to Action
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+Section 1: Bar chart comparing schools with/without music programs
+Section 2: Side-by-side academic performance chart
+Section 3: Infographic-style cognitive benfits
+Section 4: Map showing inequities in access 
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
@@ -58,10 +61,10 @@ Text here...
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+I am planning on using shorthand for the narritive structure and scrolling flow, tableau for the data visualizations embedded into the story, and perhaps Canva for more aesthetically pleasing and customizable graphs. I want to emphasize a clear guided storytelling experience, so I am not 100% tied to any of the above ways of presenting my findings. 
 
 ## References
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I did not use AI for this assignment. 
