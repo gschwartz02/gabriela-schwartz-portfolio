@@ -44,10 +44,9 @@ End/Takeaway/Call to Action
 ![IMG_2548](https://github.com/user-attachments/assets/f442c5a4-fc43-489e-86c0-89852a5fc394)
 ![IMG_2549](https://github.com/user-attachments/assets/fa9bc758-4421-4852-b9f9-238682091689)
 
-Section 1: Bar chart comparing schools with/without music programs
-Section 2: Side-by-side academic performance chart
-Section 3: Infographic-style cognitive benfits
-Section 4: Map showing inequities in access 
+1: Bar chart comparing music education students vs non-music ed students test scores
+2: Map showing inequities in access 
+3: Infographic-style cognitive benfits
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
