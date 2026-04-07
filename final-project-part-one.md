@@ -54,9 +54,11 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+|Arts Education Data Project      |https://artseddata.org/national_report_2019/     |A data project on all arts education (visual, performing, etc). Can be used for some basic background information on music education.             |
+|Childrens Music Workshop      |https://www.childrensmusicworkshop.com/advocacy/factsandstatistics/     |Music Education Statistics, for information on graduation rates of students that participate in music education.             |
+|Institute of Education Sciences      |https://nces.ed.gov/ipeds/dfr/2025/ReportHTML.aspx?unitId=119270     |Musicians institiute, for a lot of specific data about music education and race, degrees, etc.              |
+|National Institute of Health      |https://pmc.ncbi.nlm.nih.gov/articles/PMC12530532/     |             |
+|UMD Music and Arts Education Lab      |https://madlab.umd.edu/     |Data on who studies arts in schools, who teaches arts in schools, which schools provide arts education, and how do arts students fare beyond school.              |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
