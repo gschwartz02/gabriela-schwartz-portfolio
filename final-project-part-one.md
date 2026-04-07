@@ -69,7 +69,7 @@ I plan on using my data sources to compare outcomes between students with and wi
 I am planning on using shorthand for the narritive structure and scrolling flow, tableau for the data visualizations embedded into the story, and perhaps Canva for more aesthetically pleasing and customizable graphs. I want to emphasize a clear guided storytelling experience, so I am not 100% tied to any of the above ways of presenting my findings. 
 
 ## References
-_List any references you used here._
+The sketches of my data visualizations did not use real data, but I am planning on using the data sources above for my actual visualizations.
 
 ## AI acknowledgements
 I did not use AI for this assignment. 
