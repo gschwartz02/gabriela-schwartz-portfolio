@@ -10,16 +10,35 @@ Text here!
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+My target audience is educators (mainly K-12), school boards and authorities, arts administrators, policy makers, education advocates. Participants were selected to represent a mix of academic backgrounds (arts vs. non-arts), interest levels in arts education, and familiarity with data visualization. 
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+1. Understanding
+- What do you think this project is about?
+- What stands out to you first?
 
+2. Clarity
+- Were any visuals confusing or hard to interpret?
+- Did the story feel easy to follow?
+
+3. Engagement
+- What parts were most interesting?
+- Where did you lose interest (if at all)?
+
+4. Design
+- How do you feel about the visual style?
+- Is anything overwhelming or too minimal?
+
+5. Takeaway
+- What is your main takeaway from this?
+- Would this change your perspective on music education?
+  
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
+|Understanding      |What do you think this project is about?                  
+What do you think this project is about?|
 |      |                  |
 |      |                  |
 
