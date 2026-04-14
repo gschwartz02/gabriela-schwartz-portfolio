@@ -37,11 +37,11 @@ My target audience is educators (mainly K-12), school boards and authorities, ar
   
 | Goal | Questions to Ask |
 |------|------------------|
-|Understanding      |What do you think this project is about?                  
-What do you think this project is about?|
-|      |                  |
-|      |                  |
-
+|Understanding      |What do you think this project is about? What stands out to you first?|
+|Clarity      |Were any visuals confusing or hard to interpret? Did the story feel easy to follow?|
+|Engagement      |What parts were most interesting? Where did you lose interest (if at all)?|
+|Design      |How do you feel about the visual style? Is anything overwhelming or too minimal? |
+|Takeaway      |What is your main takeaway from this? Would this change your perspective on music education? |
 
 Text here!
 
