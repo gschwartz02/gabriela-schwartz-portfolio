@@ -14,26 +14,6 @@ My target audience is educators (mainly K-12), school boards and authorities, ar
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
-
-1. Understanding
-- What do you think this project is about?
-- What stands out to you first?
-
-2. Clarity
-- Were any visuals confusing or hard to interpret?
-- Did the story feel easy to follow?
-
-3. Engagement
-- What parts were most interesting?
-- Where did you lose interest (if at all)?
-
-4. Design
-- How do you feel about the visual style?
-- Is anything overwhelming or too minimal?
-
-5. Takeaway
-- What is your main takeaway from this?
-- Would this change your perspective on music education?
   
 | Goal | Questions to Ask |
 |------|------------------|
@@ -71,11 +51,6 @@ Text here!
 | ...add more rows as necessary            |                                                                                 |
 
 > ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
 Text here!
 
