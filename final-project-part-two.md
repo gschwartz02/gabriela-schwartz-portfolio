@@ -48,7 +48,7 @@ My target audience is educators (mainly K-12), school boards and authorities, ar
 I like the way my project is going so far. I need to find more data on the socio-economic impact of music education, which has been hard to find so far to manipulate into a visualization.
 
 ## References
-_List any references you used here._
+Pennsylvania Music Educators Association. A Comparison of PSSA Scores between Music and Non-Music Students: Summary Report. Accessed April 14, 2026. https://www.pmea.net/wp-content/uploads/2012/10/comparison.pdf.
 
 ## AI acknowledgements
 I did not use AI for this assignment. 
