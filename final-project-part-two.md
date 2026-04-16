@@ -23,12 +23,8 @@ My target audience is educators (mainly K-12), school boards and authorities, ar
 |Design      |How do you feel about the visual style? Is anything overwhelming or too minimal? |
 |Takeaway      |What is your main takeaway from this? Would this change your perspective on music education? |
 
-Text here!
-
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
 
 | Questions               | Interview 1 Preschool Teacher | Interview 2 Music Graduate Student| Interview 3 Public Policy Graduate Student|
 |-------------------------|--------------------------------|-------------|-------------|
@@ -40,23 +36,20 @@ Text here!
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
-
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+|I want to make things as easy to read as possible, since I am making this for a variety of audience, some may not have a background in data visualization. | I will make my data visualizations clean cut with an easy to understand title. |
+|On shorthand, I want to make the flow and scrollability not seem taxing to the reader.                                          |I will try to be short and to the point on the flow of shorthand.                                                                                 |
+|I want to leave with a clear call to action for the audience.                                          |I will try to make the most impactful data visualization at the end of the website so the audience can have a takeaway point.                                                                 |
+
 
 > ...include any final thoughts you have here. 
 
-Text here!
+I like the way my project is going so far. I need to find more data on the socio-economic impact of music education, which has been hard to find so far to manipulate into a visualization.
 
 ## References
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I did not use AI for this assignment. 
 
