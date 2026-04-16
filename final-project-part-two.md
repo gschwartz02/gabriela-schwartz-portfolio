@@ -30,11 +30,11 @@ Text here!
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 Preschool Teacher | Interview 2 Music Graduate Student| Interview 3 Public Policy Graduate Student|
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+|What stands out to you first? |The colors on the bar graph separate music vs. non music pretty well. You can see the difference between their test scores.|The music vs. non-music students test scores are different.             |The title of the graph descripes what I am looking at pretty well.|
+|What is your main takeaway from this?|That music impacts students learning.                                |Music positively impacts students to test better than non-music students.             |Music education plays an important role in the development of students.             |
+|Would this change your prespective on music education?                         |Teaching preschool, we don't always do music activities but this will influence me to include more music in my classroom.                                |Being a music student, I know that music is important but now I can see the direct results.             |I do agree that music education is important, and being in public policy I hope to keep this in mind going into my career.             |
 
 
 # Identified changes for Part III
