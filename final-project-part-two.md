@@ -41,11 +41,11 @@ These experiences are particularly important in school environments, where engag
 
 6. What’s at Stake 
 
-When music education programs are reduced or eliminated, students lose access to these academic, cognitive, and social benefits. The impact is not limited to the arts—it extends into broader educational outcomes.
+When music education programs are reduced or eliminated, students lose access to these academic, cognitive, and social benefits. The impact is not limited to the arts, it extends into broader educational outcomes.
 
 The comparison below illustrates the difference between students with access to music education and those without. Without these programs, students may miss opportunities to develop critical skills that support both learning and personal growth.
 
-As schools continue to face funding challenges, these trade-offs become increasingly significant. The decision to cut music education is not just a financial one—it is a decision about the kind of educational experience students will have.
+As schools continue to face funding challenges, these tradeoffs become increasingly significant. The decision to cut music education is not just a financial one, it is a decision about the kind of educational experience students will have.
 
 7. Conclusion / Call to Action
 
