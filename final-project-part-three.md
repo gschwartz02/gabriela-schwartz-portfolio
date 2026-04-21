@@ -3,7 +3,7 @@
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Text here!
+(https://carnegiemellon.shorthandstories.com/impact-of-music-education/index.html)
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
@@ -26,7 +26,7 @@ Text here!
 ## AI acknowledgements
 > If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
 
-Text here!
+I used Gemini to read my call to action and make sure it was short and to the point. 
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
